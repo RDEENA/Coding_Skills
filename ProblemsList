@@ -1,5 +1,6 @@
-"#Array Problems"
+# checkout the programs in the 'problems' branch of the same repository
 Leet code (1758) Minimum Changes To Make Alternating Binary String. (Easy)
 Leet code(1) Two sum problem.(Easy)
 Leet code(91) Decode Ways. (Medium)
-
+Leet code(26) program to remove  duplicates from a sorted array and order should be preserved.(Easy)
+Leet code(27)program to remove all occurences of a given value in an array provided order.(Easy)
