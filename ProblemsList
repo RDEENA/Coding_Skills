@@ -1,4 +1,3 @@
-# checkout the programs in the 'problems' branch of the same repository
 Leet code (1758) Minimum Changes To Make Alternating Binary String. (Easy)
 Leet code(1) Two sum problem.(Easy)
 Leet code(91) Decode Ways. (Medium)
@@ -6,3 +5,5 @@ Leet code(26) program to remove  duplicates from a sorted array and order should
 Leet code(27)program to remove all occurences of a given value in an array provided order.(Easy)
 Leet code(9) program to check whether a given number is palindrome or not, if yes return true or else false.(Easy)
 Leet code(28) Find first occurence of a string in another string (Easy)
+Problem based on string where we need to find the longest string repeating in all the given strings
+Problem to overcome the time complexity to find fibonacci series of number using dynamic programming approach.
